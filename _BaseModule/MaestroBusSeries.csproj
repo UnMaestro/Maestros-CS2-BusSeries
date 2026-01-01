@@ -17,13 +17,13 @@
     <LangVersion>12</LangVersion>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>130327</ModId>
-    <Version>1.0.2</Version>
+    <Version>1.1.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>TEST (WE-Module)</DisplayName>
-    <ShortDescription>Just work please</ShortDescription>
-    <ForumLink></ForumLink>
-    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-DynamicStreetSigns</GitHubLink>
+    <DisplayName>Flixbus (Asset)(WE-Module)</DisplayName>
+    <ShortDescription>This Mod adds Vanilla Re-themed Buses like Flixbus</ShortDescription>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/maestros-bus-series-asset-we-module.1892892/</ForumLink>
+    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-BusSeries</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <DiscordLink>https://discord.com/channels/1024242828114673724/1446097301775843488</DiscordLink>
     <PayPalLink>https://www.paypal.com/paypalme/pas1800</PayPalLink>
